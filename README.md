@@ -8,5 +8,5 @@ after attaining this skill, and as a demonstatration of it i should be able to c
 3. A share Git repo with commits.
 
 ## Output links
-![Blog](https://medium.com/@silverdeltamega/what-is-git-head-be80356c2b9a)<br>
-![Git repo](https://github.com/Simbadeveloper/DemoApp.io)<br>
+[Blog](https://medium.com/@silverdeltamega/what-is-git-head-be80356c2b9a)<br>
+[Git repo](https://github.com/Simbadeveloper/DemoApp.io)<br>
